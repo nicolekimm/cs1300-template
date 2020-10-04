@@ -52,10 +52,8 @@ body {
 }
 
 #title{
-    position: relative;
     font-weight: bold;
     font-size: 20px;
-    margin: auto;
     margin-top: 2%;
     font-family: "Montserrat";
     color: darkgreen;
@@ -70,25 +68,17 @@ body {
 }
 
 #brief-description, #components-description, #p{
-    position: relative;
-    margin:auto;
     font-size: 15px;
     width: 70%;
     line-height: 30px;
-    margin: auto;
     margin-top:2%;
-    display:inline-block;
 }
 
 #p2{
-    position: relative;
-    margin:auto;
     font-size: 15px;
     width: 60%;
     line-height: 30px;
-    margin: auto;
     margin-top:2%;
-    display:inline-block;
 }
 
 #p3{
@@ -114,7 +104,7 @@ body {
 }
 
 #storyboard{
-    width:1000px;
+    width:900px;
     height: 1000px;
     margin-top: 5%;
 }
