@@ -88,23 +88,27 @@ body {
 #title-photo{
     width:500px;
     height: 300px;
+    max-width: 100%;
     margin-top: 5%;
 }
 
 #interface-sketch{
     width:500px;
     height: 500px;
+    max-width: 100%;
 }
 
 #persona{
     width:700px;
     height: 500px;
+    max-width:100%;
     margin-top: 10%;
 }
 
 #storyboard{
     width:900px;
     height: 1000px;
+    max-width:100%;
     margin-top: 5%;
 }
 
