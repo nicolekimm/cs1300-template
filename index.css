@@ -30,9 +30,8 @@ body {
 }
 
 #description{
-    margin: auto;
     margin-top: 2%;
-    width: 50%;
+    width: 60%;
     letter-spacing: 0.5px;
     line-height: 25px;
 }
